@@ -1,0 +1,10 @@
+11,cocacola,20,1190
+23,pepsi,30,1149
+15,papasfritas,50,990
+32,chocolate,40,1490
+49,fideos,25,690
+61,arroz,30,890
+55,tomate,20,490
+82,palta,10,3590
+93,manzana,15,490
+1011,pera,10,590
